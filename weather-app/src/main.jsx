@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App.js';
+import App from './App.jsx';
 
 // locate root for react to render app at
 const el = document.getElementById('root');
