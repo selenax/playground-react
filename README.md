@@ -28,6 +28,12 @@ Coming next:
 - Functional components with hooks (`useState`, `map`, prop drilling)
 - Conventional commit workflow + ESLint
 
----
+## Getting Started
+
+1. Clone the repo
+2. Install dependencies
+3. Start the development server: npm run dev
+
+## The app will run at `http://localhost:5173` by default.
 
 This repo is part of my dev playground where I prototype and refine real-world features from scratch. Pinned to showcase component-driven thinking and frontend architecture beyond just visuals.
